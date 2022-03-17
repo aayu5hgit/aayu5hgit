@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learining **Web & Android Development**.
 - 🌱 Languages Learning: **Python, Java, php, JS**
 - 👯 I’m looking to collaborate on **Open Source Projects**.
+    <img height="220em" align="right" src="https://cdn-icons.flaticon.com/png/512/3271/premium/3271488.png?token=exp=1647525469~hmac=8cf11369087dc7f8c2d613c462746256" alt="Aayush Github"/>
 
 <details>
   <summary>My GitHub Public Stats :computer:</summary>
@@ -28,9 +29,7 @@ You can click the Preview link to take a look at your changes.
   </p> -->
   <p align="center">
   <a>
-<!--     <img height="220em" align="right" src="https://github.com/Aniket-508/Aniket-508/blob/main/IMG_0996.PNG" alt="Aayush Github"/> -->
-   <img height="auto" width="100" src="https://github.com/Aniket-508/Aniket-508/blob/main/IMG_0996.PNG">
-   <img height="auto" width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=dark&hide_border=true"/>
+   <img height="auto" width="60%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=dark&hide_border=true"/>
 <!--    <img height="150" width="120" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png"> -->
 </p>
 <br/>  
