@@ -28,9 +28,9 @@ You can click the Preview link to take a look at your changes.
   </p> -->
   <p align="center">
   <a>
-   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/left.png">
+   <img height="150" width="120" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/left.png">
    <img height="auto" width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
+   <img height="150" width="120" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
 </p>
 <br/>  
     
