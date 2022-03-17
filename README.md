@@ -21,10 +21,24 @@ You can click the Preview link to take a look at your changes.
   <summary>My GitHub Public Stats :computer:</summary>
   <br/>
   
-  <p align="center">
+<!--   <p align="center">
     <img height="150" width="120" src="https://github.com/omagrawal1111/imagebot/blob/main/left-wing.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayu5hgit&theme=dark&show_icons=true"/>
     <img height="150" width="120" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
-  </p>
+  </p> -->
+  <h2><summary align="center">Github Stats 📈</summary></h2>
+<br/>  
+
+<div>
+<a href="https://newgithub-readme-stats.vercel.app/api?username=aayu5hgit&show_icons=true&count_private=true&theme=radical">
+  <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical"  />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aayu5hgit&hide=php&theme=radical">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=jupyter Notebook,php&theme=radical" height="195" width="250" />
+  
+
+</a>
+</div>
 
 </details>
