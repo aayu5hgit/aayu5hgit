@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
   <br/>
   
   <p align="center">
-    <img height="160" width="140" src="https://github.com/omagrawal1111/imagebot/blob/main/left-wing.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayu5hgit&theme=dark&show_icons=true"/>
-    <img height="160" width="140" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
+    <img height="180" width="160" src="https://github.com/omagrawal1111/imagebot/blob/main/left-wing.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket-508&theme=dark&show_icons=true"/>
+    <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
   </p>
 
 </details>
