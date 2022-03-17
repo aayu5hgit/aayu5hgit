@@ -26,19 +26,23 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayu5hgit&theme=dark&show_icons=true"/>
     <img height="150" width="120" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
   </p> -->
-  <h2><summary align="center">Github Stats 📈</summary></h2>
+  <p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/left.png">
+   <img height="auto" width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=dark&hide_border=true"/>
+   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
+</p>
 <br/>  
-
+    
+<!--   <h2><summary align="center">Github Stats 📈</summary></h2>
+<br/>  
 <div>
 <a href="https://newgithub-readme-stats.vercel.app/api?username=aayu5hgit&show_icons=true&count_private=true&theme=radical">
   <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical"  />
 </a>
-
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aayu5hgit&hide=php&theme=radical">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=jupyter Notebook,php&theme=radical" height="195" width="250" />
-  
-
 </a>
-</div>
+</div> -->
 
 </details>
