@@ -13,12 +13,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://komarev.com/ghpvc/?username=aayu5hgit" alt="https://github.com/aayu5hgit" /> [![Twitter Badge](https://img.shields.io/badge/-@_aayu5h-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_aayu5h "Connect on Twitter")  [![Gmail Badge](https://img.shields.io/badge/-amtalreja02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amtalreja02@gmail.com "Connect via Email")
 
 - 🔭 I’m currentlycurrently pursuing **B.TECH**.
-- 🌱 I’m currently learining **Web & Android Development*.
+- 🌱 I’m currently learining **Web & Android Development**.
+- 🌱 Languages Currently Learning: **Python, Java, php, JS**
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-- ⚡ Fun fact: Am I **Spiderman**? because all I do is **Web**.
 
 <details>
-  <summary>Some of my GitHub Public Stats :computer:</summary>
+  <summary>My GitHub Public Stats :computer:</summary>
   <br/>
   
   <p align="center">
