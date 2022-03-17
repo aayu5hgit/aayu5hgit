@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   </p> -->
   <p align="center">
   <a>
-   <img height="auto" width="60%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=dark&hide_border=true"/>
+   <img height="auto" width="60%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=prussian&hide_border=true"/>
 <!--    <img height="150" width="120" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png"> -->
 </p>
 <br/>  
