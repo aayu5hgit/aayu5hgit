@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## Hi there, Aayush this side!👀
 
 
-<img src="https://komarev.com/ghpvc/?username=aayu5hgit" alt="https://github.com/aayu5hgit" /> [![Twitter Badge](https://img.shields.io/badge/-@_aayu5h-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_aayu5h "Connect on Twitter")  [![Gmail Badge](https://img.shields.io/badge/-amtalreja02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amtalreja02@gmail.com "Connect via Email")
+<img src="https://komarev.com/ghpvc/?username=aayu5hgit" alt="https://github.com/aayu5hgit" /> [![Twitter Badge](https://img.shields.io/badge/-_aayu5h-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_aayu5h "Connect on Twitter")  [![Gmail Badge](https://img.shields.io/badge/-amtalreja02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amtalreja02@gmail.com "Connect via Email")
 
 - 🔭 Pursuing **B.TECH**.
 - 🌱 I’m currently learining **Web & Android Development**.
