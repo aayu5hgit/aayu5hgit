@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 Pursuing **B.E**.
 - 🌱 I’m currently learining **Web & Android Development**.
-- 🌱 Languages Learning: **Python, Java, php, JS**
+- 🌱 Languages Learning: **Python, Java, php, JS, **.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-    <img height="220em" align="right" src="https://cdn-icons.flaticon.com/png/512/3271/premium/3271488.png?token=exp=1647525469~hmac=8cf11369087dc7f8c2d613c462746256" alt="Aayush Github"/>
+    <img height="220em" align="right" src="https://cdn-icons-png.flaticon.com/512/560/560216.png" alt="Aayush Github"/>
 
 <details>
   <summary>My GitHub Public Stats :computer:</summary>
