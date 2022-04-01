@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 Pursuing **B.E**.
 - 🌱 I’m currently learining **Web & Android Development**.
 - 🌱 Languages Learning: **Python, Java, php, JS**.
+- 🌱 Have made basic **apps + websites**. 
 - 👯 I’m looking to collaborate on **Open Source Projects**.
     <img height="220em" align="right" src="https://cdn-icons-png.flaticon.com/512/560/560216.png" alt="Aayush Github"/>
 
