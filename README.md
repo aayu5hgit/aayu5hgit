@@ -40,6 +40,7 @@
   <p align="center">
   <a>
    <img height="auto" width="60%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=prussian&hide_border=true"/>
+   <img height="200em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/ username=aayu5hgit&layout=compact&langs_count=8&theme=algolia"/>
 <!--    <img height="150" width="120" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png"> -->
 </p>
 <br/>  
