@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![AdobeXd](https://img.shields.io/badge/-AdobeXd-05122A?style=plastic&logo=adobexd)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-05122A?style=plastic&logo=android)&nbsp;
 
 <details>
   <summary>My GitHub Public Stats :computer:</summary>
