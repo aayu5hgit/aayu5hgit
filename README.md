@@ -13,7 +13,7 @@
 - 🌱 Languages Learning: **Python, Java, php, JS**.
 - 📍  Made basic **apps + websites**. 
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-    <img height="220em" align="right" src="https://cdn-icons-png.flaticon.com/512/560/560216.png" alt="Aayush Github"/>
+   
 
 ### 🛠 &nbsp;Tech Stack:
 
