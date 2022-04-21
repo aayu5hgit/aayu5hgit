@@ -3,7 +3,7 @@
 - 🌱 Beginner web developer, andriod developer
 - 🌱 Currently Learning Python, Java, php, JS -->
 
-## Hi there, Aayush this side!🙋🏻‍♂️
+## Hi there, Aayush this side!👨🏻‍💻
 
 
 <img src="https://komarev.com/ghpvc/?username=aayu5hgit" alt="https://github.com/aayu5hgit" /> [![Twitter Badge](https://img.shields.io/badge/-_aayu5h-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_aayu5h "Follow me on Twitter")  [![Gmail Badge](https://img.shields.io/badge/-amtalreja02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amtalreja02@gmail.com "Connect via Email")
