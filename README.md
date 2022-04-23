@@ -11,7 +11,7 @@
 - 🔭 Pursuing **B.E**.
 - 🌱 I’m currently learining **Web & Android Development**.
 - 🌱 Languages Learning: **Python, Java, php, JS**.
-- 📍  Made basic **apps + websites**. 
+- 📍  Made basic **apps & websites**. 
 - 👯 Looking to collaborate on **Open Source Projects**.
    
 
