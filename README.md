@@ -48,7 +48,5 @@
       </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aayu5hgit&&theme=darcula)
-
 
 </details>
