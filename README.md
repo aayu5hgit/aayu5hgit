@@ -10,7 +10,7 @@
 
 - 🔭 Pursuing **B.E**.
 - 📚 currently learining **Web & Android Development**.
-- 🌱 Languages Learning - **Python, Java, php, JS**.
+- 🌱 Languages Learning - **Dart, Python, Java, php, JS**.
 - 📍  Made basic **apps & websites**. 
 - 👯 Looking to collaborate on **Open Source Projects**.
    
