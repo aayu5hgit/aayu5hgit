@@ -10,7 +10,7 @@
 
 - 🔭 Pursuing **B.E**.
  
-- 📚 currently learining **Web & Android Development**.
+- 📚 currently learining **Flutter**.
 
 - 🌱 Languages Learning - **Dart, Python, Java, php, JS**.
 
