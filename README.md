@@ -9,10 +9,14 @@
 <img src="https://komarev.com/ghpvc/?username=aayu5hgit" alt="https://github.com/aayu5hgit" /> [![Twitter Badge](https://img.shields.io/badge/-_aayu5h-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_aayu5h "Follow me on Twitter")  [![Gmail Badge](https://img.shields.io/badge/-amtalreja02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amtalreja02@gmail.com "Connect via Email")
 
 - 🔭 Pursuing **B.E**.
+- 
 - 📚 currently learining **Web & Android Development**.
+- 
 - 🌱 Languages Learning - **Dart, Python, Java, php, JS**.
+- 
 - 📍  Made basic **apps & websites**. 
-- 👯 Looking to collaborate on **Open Source Projects**.
+- 
+- 👀 Looking to collaborate on **Open Source Projects**.
    
 
 ### 🛠 &nbsp;Tech I Know:
