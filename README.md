@@ -12,7 +12,7 @@
  
 - 📚 currently learining **Flutter**.
 
-- 🌱 Languages Learning - **Dart, Python, Java, php, JS**.
+- 🌱 Languages Learning - **Dart, Python, Java, JS**.
 
 - 📍  Made basic **apps & websites**. 
 
