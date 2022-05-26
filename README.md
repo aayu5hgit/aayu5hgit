@@ -35,7 +35,7 @@
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-05122A?style=plastic&logo=android)&nbsp;
 
 <details>
-  <summary>My GitHub Public Stats :computer:</summary>
+  <summary>My GitHub Stats:computer:</summary>
   <br/>
   
 <table>
