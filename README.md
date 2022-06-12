@@ -14,7 +14,7 @@
 
 - 🌱 Languages Learning - **Dart, Python, Java, JS**.
 
-- 📍  Made basic **apps + websites**. 
+- 📍  Made basic **apps and websites**. 
 
 - 👀 Looking to collaborate on **Open Source Projects**.
    
