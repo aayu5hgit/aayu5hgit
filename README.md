@@ -34,9 +34,6 @@
 ![AdobeXd](https://img.shields.io/badge/-AdobeXd-05122A?style=plastic&logo=adobexd)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-05122A?style=plastic&logo=android)&nbsp;
 
-<details>
-  <summary>My GitHub Stats:computer:</summary>
-  <br/>
   
 <table>
   <tr>
@@ -52,5 +49,3 @@
       </tr>
   </table>
 
-
-</details>
