@@ -10,7 +10,7 @@
 
 - 🔭 Pursuing **B.E**.
  
-- 📚 currently learning **Flutter, MongoDb**.
+- 📚 currently learning **Flask, MongoDb**.
 
 - 🌱 Languages Learning - **Dart, Python, Java, JS**.
 
