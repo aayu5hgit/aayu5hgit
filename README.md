@@ -30,6 +30,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_aayu5h "Follow me on Twitter") [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amtalreja02@gmail.com "Connect via Email") [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-talreja-107896224/ "Connect via Linkedin")
    
 <table>
+
   <tr>
     <td>
     
@@ -41,7 +42,7 @@
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=radical)
      </td>
        
-      </tr>
+
   </table>
   
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayu5hgit&layout=compact)](https://github.com/aayu5hgit/github-readme-stats) -->
