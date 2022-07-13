@@ -43,4 +43,5 @@
        
       </tr>
   </table>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayu5hgit&layout=compact)](https://github.com/aayu5hgit/github-readme-stats)
+  
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayu5hgit&layout=compact)](https://github.com/aayu5hgit/github-readme-stats) -->
