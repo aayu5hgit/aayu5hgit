@@ -4,7 +4,7 @@
 
 - 🔭 Pursuing **B.E in Computer Science**.
  
-- 📚 currently learning **ReactJS**
+- 📚 currently learning **ReactJS, DSA**
 
 - 🌱 Languages Learning - **Python, JS**.
 
