@@ -8,7 +8,7 @@
 
 - 🌱 Languages Learning - **Python, JS**.
 
-- 👀 Looking to collaborate on open source **Web Development Projects**.
+- 👀 Looking to collaborate on open source **Projects**.
    
 
 ### 🛠 &nbsp;TECH I KNOW:
