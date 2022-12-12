@@ -31,7 +31,7 @@
 [![@aayushtalreja's Holopin board](https://holopin.me/aayushtalreja)](https://holopin.io/@aayushtalreja)
 
 ## STATS
-[![trophy](https://github-profile-trophy.vercel.app/?username=aayu5hgit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayu5hgit&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <table>
