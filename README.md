@@ -30,7 +30,10 @@
 ## BADGES
 [![@aayushtalreja's Holopin board](https://holopin.me/aayushtalreja)](https://holopin.io/@aayushtalreja)
 
-   
+## STATS
+https://github-profile-trophy.vercel.app/?username=aayu5hgit&theme=monokai
+
+
 <table>
 
   <tr>
