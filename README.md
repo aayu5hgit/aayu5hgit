@@ -43,9 +43,11 @@
    </td>
 
    <td>  
-     ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aayu5hgit&theme=radical)
-     </td>
-       
+    
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aayu5hgit&theme=github-dark-blue&border_radius=6&date_format=j%20M%5B%20Y%5D&background=80%2C131739%2C4754EB&dates=EBEBEB)](https://git.io/streak-stats)
+    
+   </td>
+    </tr>
 
   </table>
   
