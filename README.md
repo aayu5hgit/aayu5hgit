@@ -10,7 +10,7 @@
 
  🌱 Primary Language - **Java**.
 
- ⭐ Full Stack Web Developer Intern at `Incubrain`.
+ ⭐ UI/UX Design Intern at `DesignAR`.
    
 
 ## 🛠 &nbsp;TECH STACK
