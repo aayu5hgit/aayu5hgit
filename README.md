@@ -10,7 +10,7 @@
 
  🌱 Primary Language - **Java**.
 
- ⭐ UI/UX Design Intern at `DesignAR`.
+ ⭐ UI/UX Designer Intern at [`DesignAR`](https://designar.work).
    
 
 ## 🛠 &nbsp;TECH STACK
