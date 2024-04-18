@@ -41,16 +41,17 @@
   <tr>
     <td>
     
- [![aayu5hgit's GitHub | Stats](https://stats.quine.sh/aayu5hgit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aayu5hgit)
+   [![aayu5hgit's GitHub | Stats](https://stats.quine.sh/aayu5hgit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aayu5hgit)
+   
    </td>
 
    <td>  
     
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aayu5hgit&theme=github-dark-blue&border_radius=6&date_format=j%20M%5B%20Y%5D&background=80%2C131739%2C4754EB&dates=EBEBEB)](https://git.io/streak-stats)
+   [![aayu5hgit's GitHub | Languages Over Time](https://stats.quine.sh/aayu5hgit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aayu5hgit)
     
    </td>
     </tr>
 
-  </table>
+</table>
   
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayu5hgit&layout=compact)](https://github.com/aayu5hgit/github-readme-stats) -->
