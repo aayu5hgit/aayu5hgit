@@ -2,6 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=aayu5hgit&style=for-the-badge) 
 
+ [![OneDrive](https://img.shields.io/badge/Aayush's%20Portfolio-pink?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=black)](https://aayushtalreja.vercel.app "Pay a visit to my portfolio website")
+
+
  🎉 **Winner** of Smart India Hackathon (SIH) 2023.
 
  🎙 **Speaker** at Google Devfest 2023 (Mumbai).
@@ -10,9 +13,7 @@
 
  🌱 Primary Language - **Java**.
 
- ⭐ UI/UX Designer Intern at [`DesignAR`](https://designar.work).
-
- [![OneDrive](https://img.shields.io/badge/Aayush's%20Portfolio-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)](https://aayushtalreja.vercel.app "Pay a visit to my portfolio website")
+ ⭐ UI/UX Designer at [`DesignAR`](https://designar.work).
    
 
 ## 🛠 &nbsp;TECH STACK
@@ -35,23 +36,9 @@
 [![An image of @aayushtalreja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushtalreja)](https://holopin.io/@aayushtalreja)
 
 ## STATS
-
-<table>
-
-  <tr>
-    <td>
-    
    [![aayu5hgit's GitHub | Stats](https://stats.quine.sh/aayu5hgit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aayu5hgit)
+
    
-   </td>
 
-   <td>  
-    
-   [![aayu5hgit's GitHub | Languages Over Time](https://stats.quine.sh/aayu5hgit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aayu5hgit)
-    
-   </td>
-    </tr>
-
-</table>
   
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayu5hgit&layout=compact)](https://github.com/aayu5hgit/github-readme-stats) -->
