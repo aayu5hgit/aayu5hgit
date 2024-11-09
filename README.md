@@ -13,7 +13,7 @@
 
  🌱 Primary Language - **Java**.
 
- ⭐ UI/UX Designer at [`DesignAR`](https://designar.work).
+ ⭐ Product Owner at [`Unthread`](https://www.linkedin.com/company/unthread-world).
    
 
 ## 🛠 &nbsp;TECH STACK
@@ -32,7 +32,7 @@
 ## CONNECT
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_aayu5h "Follow me on Twitter") [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amtalreja02@gmail.com "Connect via Email") [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-talreja-107896224/ "Connect via Linkedin") [![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@aayu5hgit "My Replit Profile") [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aayushtalreja "Telegram")
 
-## Hacktoberfest 2023
+## Hacktoberfest Badges
 [![An image of @aayushtalreja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushtalreja)](https://holopin.io/@aayushtalreja)
 
 ## STATS
