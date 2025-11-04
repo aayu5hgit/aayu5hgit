@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=aayu5hgit&style=for-the-badge) 
 
- [![OneDrive](https://img.shields.io/badge/Aayush's%20Portfolio-pink?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=black)](https://aayushtalreja.vercel.app "Pay a visit to my portfolio website")
+ [![OneDrive](https://img.shields.io/badge/Aayush's%20Portfolio-pink?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=black)](https://aayushtalreja.me "Pay a visit to my portfolio website")
 
 
  🎉 **Winner** of Smart India Hackathon (SIH) 2023.
