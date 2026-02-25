@@ -10,8 +10,6 @@
  🎙 **Speaker** at Google Devfest 2023 (Mumbai).
  
  📚 currently into **Product Design**
-
- ⭐ Product Owner at [`Unthread`](https://www.linkedin.com/company/unthread-world).
    
 
 ## 🛠 &nbsp;TECH STACK
